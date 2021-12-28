@@ -1,10 +1,10 @@
 ---
 title: Sobre o Site
 tags: sobre uepb calculo
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
+##article_header:
+#  type: cover
+ # image:
+ #   src: /screenshot.jpg
 ---
 
 #### Veja como a nota é calculada, incluindo os links para os arquivos oficiais.
