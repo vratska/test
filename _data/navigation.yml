@@ -47,6 +47,6 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      pt      : &PT       Sobre
+      pt      : &PT       Sobre o autor
       # @end locale config
     url: /about.html
